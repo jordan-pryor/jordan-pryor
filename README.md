@@ -1,5 +1,6 @@
 <!-- List Of Websites-->
 [linkedin]: https://www.linkedin.com/in/jordan-pryor/
+[gitlab]: https://gitlab.com/jordan-pryor
 [twitter]: https://twitter.com/PryorBytes
 [reddit]: https://www.reddit.com/user/PryorBytes
 [github]: https://github.com/jordan-pryor
@@ -8,6 +9,7 @@
 
 ### <samp>&gt; Hi there, I'm <a href="https://twitter.com/PryorBytes" target="_blank">Jordan Pryor</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
 
+[![Gitlab Badge](https://img.shields.io/badge/gitlab-orange?style=flat-square&logo=gitlab&logoColor=white)][gitlab]
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0a66c2?style=flat-square&logo=Linkedin&logoColor=white)][linkedin]
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-000000?style=flat-square&logo=X&logoColor=white)][twitter]
 [![Reddit Badge](https://img.shields.io/badge/-Reddit-ff4500?style=flat-square&logo=reddit&logoColor=white)][reddit]
