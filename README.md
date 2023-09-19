@@ -45,5 +45,5 @@ No activity tracked
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jordan-pryor&show_icons=true&theme=rose_pine"/> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordan-pryor&exclude_repo=KNN-Image-Classification&show_icons=true&theme=rose_pine&layout=compact&langs_count=8"/>
+  ##<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordan-pryor&exclude_repo=KNN-Image-Classification&show_icons=true&theme=rose_pine&layout=compact&langs_count=8"/>
 </p>
