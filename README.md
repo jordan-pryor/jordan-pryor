@@ -20,7 +20,7 @@ I am a Full-time Student at Full Sail University, a Hoppyist Programmer, And an 
 
 I love spending my time creating anything that randomly peaks my intrest; Sometimes I finish the thing.I'm Currently Hyper-Focused on Game/Game Engine Development, so We shall see how it goes
 
-<img align="right" alt="GIF" src="https://tenor.com/view/kermit-gif-17172043193563962893" height="200" />
+<img align="right" alt="GIF" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHg0cDNjeWljNGR6cjQ3ZHZ6d3VieDM2Znh5NnF6NzFycmxzbXA2dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ejm8tkFonl8o8/giphy.gif" height="200" />
 
 **Talking about Personal Stuffs:**
 
