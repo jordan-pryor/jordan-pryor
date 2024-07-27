@@ -18,9 +18,9 @@
 
 I am a Full-time Student at Full Sail University, a Hoppyist Programmer, And an avid Linux Enthusiast.
 
-I love spending my time creating anything that randomly peaks my intrest; Sometimes I finish the thing
+I love spending my time creating anything that randomly peaks my intrest; Sometimes I finish the thing.I'm Currently Hyper-Focused on Game/Game Engine Development, so We shall see how it goes
 
-<img align="right" alt="GIF" src="https://media0.giphy.com/media/ThrM4jEi2lBxd7X2yz/giphy.gif?cid=ecf05e479efycio04ggqi67iuyz97x0x3i9lxoiow39woyr8&ep=v1_gifs_search&rid=giphy.gif&ct=g" height="200" />
+<img align="right" alt="GIF" src="https://tenor.com/view/kermit-gif-17172043193563962893" height="200" />
 
 **Talking about Personal Stuffs:**
 
