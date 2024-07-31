@@ -31,18 +31,8 @@ I love spending my time creating anything that randomly peaks my intrest; Someti
 
 </br>
 
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
-
 📈 **My GitHub Stats:**
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jordan-pryor&show_icons=true&theme=rose_pine"/> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jordan-pryor&rank_icon=github&theme=catppuccin_mocha"/> 
 </p>
