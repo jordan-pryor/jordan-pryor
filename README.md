@@ -40,6 +40,5 @@ I love spending my time creating anything that randomly peaks my intrest; Someti
 
 ✍️ **Random Dev Quote:**
 
-<p>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha)
-</p>
+
