@@ -31,11 +31,13 @@ I love spending my time creating anything that randomly peaks my intrest; Someti
 
 </br>
 
-✍️ **Random Dev Quote:**
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha)
-
 📈 **My GitHub Stats:**
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jordan-pryor&rank_icon=github&theme=catppuccin_mocha"/> 
 </p>
+
+
+✍️ **Random Dev Quote:**
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha)
+
