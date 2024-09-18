@@ -1,3 +1,4 @@
+[![An image of @jordanpryor's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jordanpryor)](https://holopin.io/@jordanpryor)
 <!-- List Of Websites-->
 [linkedin]: https://www.linkedin.com/in/jordan-pryor/
 [gitlab]: https://gitlab.com/jordan-pryor
