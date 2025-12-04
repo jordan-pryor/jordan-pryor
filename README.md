@@ -17,10 +17,9 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.laobi.icu/badge?page_id=jordan-pryor)
 
-I Full Sail University Graduate, With an Associate's in Computer Science, a Hoppyist Programmer, And an avid Linux Enthusiast.
+I am a Full Sail University Graduate, With an Associate's in Computer Science. I am currently a Hobbyist Developer, with a fixation on Video Game & Engine Development. I also have a passion For the Automotive Field and Cars in general.
 
-I love spending my time creating anything that randomly peaks my intrest; Sometimes I finish the thing.I'm Currently Hyper-Focused on Game/Game Engine Development, so We shall see how it goes
-
+I love spending my time Creating, Tearing apart and/or Fixing anything that randomly peaks my intrest; Sometimes I finish it other times its in Limbo. I currently am learning S&Box Development, C# Based, and furthering my C++ Skills; Starting new project's here soon! 
 <img align="right" alt="GIF" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHg0cDNjeWljNGR6cjQ3ZHZ6d3VieDM2Znh5NnF6NzFycmxzbXA2dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ejm8tkFonl8o8/giphy.gif" height="200" />
 
 **Talking about Personal Stuffs:**
