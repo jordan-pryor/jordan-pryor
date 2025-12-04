@@ -25,11 +25,11 @@ I love spending my time Creating, Tearing apart and/or Fixing anything that rand
 
 **Talking about Personal Stuffs:**
 
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I’m a Father, So not much free-time these days
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently working on something. More Info at Later Date :D maybe. 
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I’m now a Waiting Graduate from Full Sail Univeristy; 12/26/2025
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about anything, I am happy to attempt to help to the best of my ability
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: [jordanpryor.ascs@outlook.com][outlook]
+- <img src="https://github.com/jordan-pryor/jordan-pryor/blob/main/assets/dad.gif?raw=true" width="21" />&nbsp;&nbsp; I’m a Father, So not much free-time these days
+- <img src="https://github.com/jordan-pryor/jordan-pryor/blob/main/assets/development.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently working on something. More Info at Later Date :D maybe. 
+- <img src="https://github.com/jordan-pryor/jordan-pryor/blob/main/assets/degree.gif?raw=true" width="21" />&nbsp;&nbsp; I’m now a Waiting Graduate from Full Sail Univeristy; 12/26/2025
+- <img src="https://github.com/jordan-pryor/jordan-pryor/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about anything, I am happy to attempt to help to the best of my ability
+- <img src="https://github.com/jordan-pryor/jordan-pryor/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: [jordanpryor.ascs@outlook.com][outlook]
 
 </br>
 
