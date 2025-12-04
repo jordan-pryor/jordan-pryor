@@ -20,13 +20,15 @@
 I am a Full Sail University Graduate, With an Associate's in Computer Science. I am currently a Hobbyist Developer, with a fixation on Video Game & Engine Development. I also have a passion For the Automotive Field and Cars in general.
 
 I love spending my time Creating, Tearing apart and/or Fixing anything that randomly peaks my intrest; Sometimes I finish it other times its in Limbo. I currently am learning S&Box Development, C# Based, and furthering my C++ Skills; Starting new project's here soon! 
+
 <img align="right" alt="GIF" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHg0cDNjeWljNGR6cjQ3ZHZ6d3VieDM2Znh5NnF6NzFycmxzbXA2dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ejm8tkFonl8o8/giphy.gif" height="200" />
 
 **Talking about Personal Stuffs:**
 
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently working on something. More Info at Later Date :D 
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently enrolled Full-time at Full Sail.
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about anything, I am happy to attempt to help
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I’m a Father, So not much free-time these days
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently working on something. More Info at Later Date :D maybe. 
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I’m now a Waiting Graduate from Full Sail Univeristy; 12/26/2025
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about anything, I am happy to attempt to help to the best of my ability
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: [jordanpryor.ascs@outlook.com][outlook]
 
 </br>
