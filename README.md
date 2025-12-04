@@ -17,7 +17,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.laobi.icu/badge?page_id=jordan-pryor)
 
-I am a Full-time Student at Full Sail University, a Hoppyist Programmer, And an avid Linux Enthusiast.
+I Full Sail University Graduate, With an Associate's in Computer Science, a Hoppyist Programmer, And an avid Linux Enthusiast.
 
 I love spending my time creating anything that randomly peaks my intrest; Sometimes I finish the thing.I'm Currently Hyper-Focused on Game/Game Engine Development, so We shall see how it goes
 
